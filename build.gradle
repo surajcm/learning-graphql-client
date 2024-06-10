@@ -3,7 +3,7 @@ plugins {
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
     id 'idea'
-	id "com.apollographql.apollo" version "2.5.9"
+	id "com.apollographql.apollo" version "2.5.14"
 }
 
 group = 'com.suraj'
